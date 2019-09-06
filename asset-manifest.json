@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/marchukmiroslava88/react_layout_dia/static/css/main.aa376614.chunk.css",
-    "main.js": "/marchukmiroslava88/react_layout_dia/static/js/main.fd6bb25d.chunk.js",
-    "main.js.map": "/marchukmiroslava88/react_layout_dia/static/js/main.fd6bb25d.chunk.js.map",
-    "runtime~main.js": "/marchukmiroslava88/react_layout_dia/static/js/runtime~main.d1b30488.js",
-    "runtime~main.js.map": "/marchukmiroslava88/react_layout_dia/static/js/runtime~main.d1b30488.js.map",
-    "static/css/2.1a3f6ec8.chunk.css": "/marchukmiroslava88/react_layout_dia/static/css/2.1a3f6ec8.chunk.css",
-    "static/js/2.3b85b408.chunk.js": "/marchukmiroslava88/react_layout_dia/static/js/2.3b85b408.chunk.js",
-    "static/js/2.3b85b408.chunk.js.map": "/marchukmiroslava88/react_layout_dia/static/js/2.3b85b408.chunk.js.map",
-    "index.html": "/marchukmiroslava88/react_layout_dia/index.html",
-    "precache-manifest.fcc21e6ac0dd6244ccb750eba2e97011.js": "/marchukmiroslava88/react_layout_dia/precache-manifest.fcc21e6ac0dd6244ccb750eba2e97011.js",
-    "service-worker.js": "/marchukmiroslava88/react_layout_dia/service-worker.js",
-    "static/css/2.1a3f6ec8.chunk.css.map": "/marchukmiroslava88/react_layout_dia/static/css/2.1a3f6ec8.chunk.css.map",
-    "static/css/main.aa376614.chunk.css.map": "/marchukmiroslava88/react_layout_dia/static/css/main.aa376614.chunk.css.map",
-    "static/media/App.scss": "/marchukmiroslava88/react_layout_dia/static/media/slick.f97e3bbf.svg"
+    "main.css": "./static/css/main.862ca0cc.chunk.css",
+    "main.js": "./static/js/main.fd6bb25d.chunk.js",
+    "main.js.map": "./static/js/main.fd6bb25d.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+    "static/css/2.0779f1c5.chunk.css": "./static/css/2.0779f1c5.chunk.css",
+    "static/js/2.3b85b408.chunk.js": "./static/js/2.3b85b408.chunk.js",
+    "static/js/2.3b85b408.chunk.js.map": "./static/js/2.3b85b408.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.c6d4ea7e982c0174b5df6195d49e6d08.js": "./precache-manifest.c6d4ea7e982c0174b5df6195d49e6d08.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.0779f1c5.chunk.css.map": "./static/css/2.0779f1c5.chunk.css.map",
+    "static/css/main.862ca0cc.chunk.css.map": "./static/css/main.862ca0cc.chunk.css.map",
+    "static/media/App.scss": "./static/media/slick.f97e3bbf.svg"
   }
 }
